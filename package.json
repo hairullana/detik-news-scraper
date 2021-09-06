@@ -1,0 +1,18 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "latihan scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapper"
+  ],
+  "author": "Hairul Lana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
